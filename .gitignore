@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+data/
+dist/
+*.sqlite3*
+*.db
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+*.log
+test-output/
